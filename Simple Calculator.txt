@@ -1,0 +1,16 @@
+Hi! My name is Shahzaib Ali.
+I am very thrilled to announce that I have successfully completed the first task of my first internship in C++ programming
+Offered by "CODSOFT".
+
+Task 2 : "Simple Calculator"
+
+This is a simple console based calculator.
+It is capable to perform simple mathematical operations like "Addition, Subtraction, Multiplication and Division.
+The program asks the user to enter the first number,the operation to be performed and the second number respectively.
+Then it performs the operation on the numbers accordingly and displays the result.
+
+I have used switch statement to build up ths program.
+
+If any operator other than (*,/,+,-) is entered by the user, the program displays an error.
+
+A Math error is also displayed when a number is divided by 0.
