@@ -1,0 +1,15 @@
+Hi! My name is Shahzaib Ali.
+I am very thrilled to announce that I have successfully completed the first task of my first internship in C++ programming
+Offered by "CODSOFT".
+
+Task 1 : "NUMBER GUESSING GAME"
+
+this is a simple console based number guessing game.
+The computer generates a random number and asks the user to guess the number.
+if the user's guess is more then 100 numbers away from the number, the message "Too high!!!" or "T00 Low!!!" is shown.
+if the user's guess is more then 10 numbers away from the number, the computer notifies the user about it.
+if the user's guess is less then 10 numbers away from the number, the computer notifies the user by saying "You are very close".
+
+As the user guesses the number correctly a congratulations message is shown along with a smiling face.
+
+At last the computer asks the user if he/she wants to play again and prompts accordingly
