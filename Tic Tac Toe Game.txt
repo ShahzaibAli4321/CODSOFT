@@ -1,0 +1,20 @@
+Hi! My name is Shahzaib Ali.
+I am very thrilled to announce that I have successfully completed the first task of my first internship in C++ programming
+Offered by "CODSOFT".
+
+Task 1 : "TIC TAC TOE GAME"
+
+This is a simple console based multiplayer Tic Tac Toe game.
+Their are two players in the game:
+Player X
+Player O
+
+Each player gets alternate turns.
+They play their turn by entering the row and column number where they want to mark their turn.
+
+First of all the function start displays the Tic Tac Toe table.
+Then the display function takes a 2 dimentional array as a parameter and updates the table after every move.
+The functions checkWin and checkDraw are boolean functions that return the status of the game (win or draw).
+The computer also shows an error if an invalid move is done by any of the two players.
+
+At last the function named Play_Again asks the user if he wants to play again and prompts the computer accordingly.
