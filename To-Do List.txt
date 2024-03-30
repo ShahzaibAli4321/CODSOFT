@@ -1,0 +1,16 @@
+Hi! My name is Shahzaib Ali.
+I am very thrilled to announce that I have successfully completed the first task of my first internship in C++ programming
+Offered by "CODSOFT".
+
+Task 4 : "TO-DO LIST"
+
+This is a simple console based multiplayer To-Do List.
+This program allows the user to :
+1. Input the tasks in the list.
+2. Add any task to the list.
+3. Remove any task from the list.
+4. Display the list.
+
+I have made different functions to perform each task.
+
+I have created a 2-dimentional array named "list" to store the contents of the list.
